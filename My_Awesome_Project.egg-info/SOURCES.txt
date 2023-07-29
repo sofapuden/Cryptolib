@@ -1,0 +1,7 @@
+setup.py
+My_Awesome_Project.egg-info/PKG-INFO
+My_Awesome_Project.egg-info/SOURCES.txt
+My_Awesome_Project.egg-info/dependency_links.txt
+My_Awesome_Project.egg-info/top_level.txt
+lib/Crypto.py
+lib/__init__.py
